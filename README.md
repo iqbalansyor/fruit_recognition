@@ -30,7 +30,8 @@ The classification model was trained using transfer learning with MobileNetV2 as
 - **Training accuracy**: ~97.8%
 - **Dataset**: 482 images across 6 classes
 
-See the model training notebook: [fruit_recognition_model_creation.ipynb](app/src/main/assets/model/fruit_recognition_model_creation.ipynb)
+- **Model file**: [FruitsClassifier.tflite](app/src/main/assets/model/FruitsClassifier.tflite)
+- **Training notebook**: [fruit_recognition_model_creation.ipynb](app/src/main/assets/model/fruit_recognition_model_creation.ipynb)
 
 ## Building
 
